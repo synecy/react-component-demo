@@ -1,0 +1,5 @@
+.greeting-component .greeting {
+  padding: 10px;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  max-width: 300px; }
